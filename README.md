@@ -1,4 +1,4 @@
-# A rental property listing app built using AWS
+# A rental property listing app built using AWS 🏡
 
 This is an app that's built using Next.js & Tailwind on the frontend, and AWS on the backend. The main goal is to use AWS services to retrieve and upload data to a database, and media files to a storage bucket from a Next.js app.
 
